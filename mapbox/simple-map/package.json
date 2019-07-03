@@ -1,0 +1,24 @@
+{
+  "name": "Mapbox Simple Map",
+  "version": "1.0.0",
+  "description": "From mapbox vs. d3.js post",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesandbox-app/static-template.git"
+  },
+  "keywords": [
+    "mapbox"
+  ],
+  "author": "Mila Frerichs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codesandbox-app/static-template/issues"
+  },
+  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "dependencies": {
+  }
+}
